@@ -1,0 +1,15 @@
+﻿Build started 7/22/2020 6:21:43 PM.
+     1>Project "D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt SourceCode.cpp
+         SourceCode.cpp
+     1>d:\save files\c++ files\tic_tac_toe\tic_tac_toe\tic_tac_toe\sourcecode.cpp(67): warning C4715: 'change_turn': not all control paths return a value
+     1>d:\save files\c++ files\tic_tac_toe\tic_tac_toe\tic_tac_toe\sourcecode.cpp(55): warning C4715: 'toss': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Debug\Tic_Tac_Toe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Debug\Tic_Tac_Toe.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Debug\Tic_Tac_Toe.lib" /MACHINE:X86 Debug\SourceCode.obj
+         Tic_Tac_Toe.vcxproj -> D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Debug\Tic_Tac_Toe.exe
+     1>Done Building Project "D:\Save Files\C++ Files\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe\Tic_Tac_Toe.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61
